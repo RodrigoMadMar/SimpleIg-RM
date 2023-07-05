@@ -1,0 +1,32 @@
+header {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+body {
+    margin: 0;
+    font-family: Helvetica;
+    background-color: white;
+}
+
+section {
+    background: rgb(204, 203, 203);
+}
+.Caja {
+background-color: white;
+margin:auto;
+width: 500px;
+height: auto;
+margin-top: 60px;
+margin-bottom: 60px;
+border-radius: 5px;
+}
+img {
+   width: 100%; 
+}
+.titulo {
+    padding: 5px;
+}
+.titulo h2 {
+    float: left;
+}
